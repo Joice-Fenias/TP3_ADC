@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_p_3_a=self.webpackChunkt_p_3_a||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/TP3_ADC/blog","blogTitle":"Blog","authorsListPath":"/TP3_ADC/blog/authors"}')}}]);
